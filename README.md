@@ -5,6 +5,7 @@ This repository features the code supporting the report prepared for fulfilling 
 Course Webpage: https://vvtesh.github.io/teaching/IR-2020.html
 
 Code Structuring and Suggested Order of Perusal:
+- The project proposal/abstract including a short intro is available in the IR-Project-Proposal-MDS201922-MDS201928-Attention-NMT-BERT.pdf PDF file
 - We introduce the lightweight Trax library maintained by Google Brain team for building deep learning models with clear, concise code and much needed speed in IR_project_google_brain_trax_library_intro.ipynb Jupyter Notebook
 - Then we move on to demonstrate the advantage of stack oriented nature of the Trax Layers in IR_project_Stack_Semantics_Trax.ipynb Jupyter Notebook
 - Then we move on to implementation from scratch of BLEU Score and further explanations in IR_project_Bleu_Score_Implementation.ipynb Jupyter Notebook
