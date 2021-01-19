@@ -1,4 +1,4 @@
-# Information-Retrieval-Mini-Project
+# Information-Retrieval-Term-Project
 
 This repository features the code supporting the report prepared for fulfilling the credit requirements of the graduate course titled Information Retrieval offered by Prof. Venkatesh Vinayakarao at Chennai Mathematical Institute.
 
